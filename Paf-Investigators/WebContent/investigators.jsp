@@ -191,10 +191,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Seller Account</h2>
+                    <h2>Investigator</h2>
                     <ul class="breadcrumb">
                         <li class="breadcrumb-item"><a href="#">Shop</a></li>
-                        <li class="breadcrumb-item active">Seller Account</li>
+                        <li class="breadcrumb-item active">Investigators</li>
                     </ul>
                 </div>
             </div>
@@ -216,13 +216,13 @@
 		
 		<h2>First Name:</h2><input id="FirstName" name="FirstName" type="text" class="form-control form-control-sm"><br>
 		
-		Last Name:
+		<h2>Last Name:</h2>
 		<input id="LastName" name="LastName" type="text" class="form-control form-control-sm"><br>
-		 Email:
+		 <h2>Email:</h2>
 		<input id="Email" name="Email" type="text" class="form-control form-control-sm"><br>
-		 Contact Number:
+		 <h2>Contact Number:</h2>
 		<input id="ContactNumber" name="ContactNumber" type="text" class="form-control form-control-sm"><br>
-		 Location:
+		 <h2>Location:</h2>
 		<input id="Location" name="Location" type="text" class="form-control form-control-sm"><br>
 		
 		
